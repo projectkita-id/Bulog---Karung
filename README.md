@@ -1,7 +1,3 @@
-Berikut adalah format **README.md** yang profesional, terstruktur, dan siap diunggah ke GitHub. Dokumen ini mencakup instruksi teknis dan panduan operasional berdasarkan kode yang Anda unggah.
-
----
-
 # 📦 Smart Sack Counter & Analysis System
 
 Sistem cerdas berbasis Computer Vision dan Depth Sensing untuk mengotomatisasi perhitungan stok karung di lingkungan industri/gudang. Sistem ini mampu menghitung karung dalam kondisi **diam (tumpukan/stapel)** maupun **bergerak (konveyor)** menggunakan kamera Intel RealSense dan algoritma YOLO.
@@ -171,5 +167,6 @@ DEVICE = "cuda"     # Ganti ke "cpu" jika tidak memiliki NVIDIA GPU
 Project ini dibuat untuk kebutuhan operasional internal. Silakan sesuaikan lisensi (MIT, Apache, dll) jika ingin dipublikasikan secara terbuka.
 
 ---
+
 
 *Dibuat dengan ❤️ menggunakan Python dan Intel RealSense Technology.*

@@ -4,22 +4,6 @@ Sistem cerdas berbasis Computer Vision dan Depth Sensing untuk mengotomatisasi p
 
 ---
 
-## 📋 Daftar Isi
-
-1. [Fitur Utama](https://www.google.com/search?q=%23-fitur-utama)
-2. [Persyaratan Sistem](https://www.google.com/search?q=%23-persyaratan-sistem)
-3. [Instalasi](https://www.google.com/search?q=%23-instalasi)
-4. [Panduan Penggunaan](https://www.google.com/search?q=%23-panduan-penggunaan)
-* [1. Analisis Tumpukan (Stapel)](https://www.google.com/search?q=%231-analisis-tumpukan-static-stack-analysis)
-* [2. Kalibrasi Garis](https://www.google.com/search?q=%232-kalibrasi-garis-calibration-tool)
-* [3. Penghitung Jalur (Conveyor)](https://www.google.com/search?q=%233-penghitung-jalur-conveyor-tracking)
-
-
-5. [Konfigurasi & Tuning](https://www.google.com/search?q=%23-konfigurasi--tuning)
-6. [Troubleshooting](https://www.google.com/search?q=%23-troubleshooting)
-
----
-
 ## 🚀 Fitur Utama
 
 * **Analisis Stapel Cerdas:** Mendeteksi pola tumpukan (Duo/Trio) dan menghitung estimasi total karung berdasarkan ketinggian tumpukan menggunakan sensor kedalaman.
@@ -170,3 +154,4 @@ Project ini dibuat untuk kebutuhan operasional internal. Silakan sesuaikan lisen
 
 
 *Dibuat dengan ❤️ menggunakan Python dan Intel RealSense Technology.*
+

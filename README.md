@@ -37,8 +37,7 @@ Sistem cerdas berbasis Computer Vision dan Depth Sensing untuk mengotomatisasi p
 
 1. **Clone Repository ini:**
 ```bash
-git clone https://github.com/username-anda/smart-sack-counter.git
-cd smart-sack-counter
+https://github.com/projectkita-id/Bulog---Karung.git
 
 ```
 
@@ -154,4 +153,5 @@ Project ini dibuat untuk kebutuhan operasional internal. Silakan sesuaikan lisen
 
 
 *Dibuat dengan ❤️ menggunakan Python dan Intel RealSense Technology.*
+
 
